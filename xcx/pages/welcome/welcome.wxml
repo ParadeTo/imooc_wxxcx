@@ -1,8 +1,7 @@
-<!--welcome.wxml-->
 <view class="container">
-  <image class="avatar" src="/images/welcome.png"></image>
-  <text class="title">Hello, Ayou</text>
-  <view class="moto">
-    <text>开启小程序之旅</text>
-  </view>
+    <image class="avatar" src="/images/avatar/1.png"></image>
+    <text class="motto">Hello, Ayou</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">开启小程序之旅</text>
+    </view>
 </view>

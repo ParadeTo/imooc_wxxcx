@@ -1,8 +1,9 @@
-
-page {
-  height: 100%;
+text{
+    font-family: MicroSoft Yahei;
+    font-size: 24rpx;
+    color: #666;
 }
 
-text {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+input{
+    font-family: MicroSoft YaHei;
 }
